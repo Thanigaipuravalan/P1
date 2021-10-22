@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/z/many-paper-icons-logo-most-popular-social-networks-smartphone-apps-chat-conversations-online-kharkov-ukraine-163033130.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#widtheight {
+    color: orange;
+    margin-top: 0px;
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 5px 5px 10px red;
+}
+
+.note {
+    font-size: 15px;
+    color: yellow;
+}
+
+#fontsize {
+    color: green;
+    background-color: yellow;
+}
+
+#develope {
+    position: fixed;
+    bottom: 0px;
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    color: orange;
+}
+
+canvas {
+    background-color: white;
+    border-color: black;
+    border-width: 4px;
+    border-style: double;
+}
